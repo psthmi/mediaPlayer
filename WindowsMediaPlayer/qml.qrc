@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon1.ico</file>
+        <file>WMP.png</file>
+    </qresource>
+</RCC>
