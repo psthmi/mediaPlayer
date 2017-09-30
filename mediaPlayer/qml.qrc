@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Dakirby309-Simply-Styled-Windows-Media-Player.ico</file>
+    </qresource>
+</RCC>
