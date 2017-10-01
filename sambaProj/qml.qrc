@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.cpp</file>
+        <file>../../Desktop/Skype-logo-S-icon-640x480.png</file>
+    </qresource>
+</RCC>
